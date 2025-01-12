@@ -52,7 +52,7 @@ public class recAudio implements Riproducibile {
     }
 
 
-    //Metodo per stampare i dettagli derra registrazione audio
+    //Metodo per stampare i dettagli della registrazione audio
     public void stampaDettagli() {
         System.out.println("Titolo: " + titolo);
         System.out.println("Durata: " + durata + " secondi");
